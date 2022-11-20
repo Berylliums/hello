@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "rx/xdag",
+            "algo": null,
+            "url": "stratum+tcp://stratum.xdag.org:23656",
+            "user": "2ZGUFPu5v8sFp0gOMuhoIhhdjvTvbjT8",
+            "pass": "unraid5",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
